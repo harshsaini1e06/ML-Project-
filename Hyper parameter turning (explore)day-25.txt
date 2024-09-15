@@ -1,0 +1,3 @@
+Hyper parameter turning (explore)
+
+sk learn --> random search tree, grid search cv (classes)
